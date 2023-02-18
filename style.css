@@ -1,0 +1,76 @@
+.hid{
+    margin: auto;
+    text-align: center;
+    background-color: aqua;
+    
+}
+.a3{
+    position: absolute;
+    margin: auto;
+    top: 570px;
+    right: 0px;
+}
+
+.a5{
+    position: absolute;
+    margin: auto;
+    top: 1275px;
+    right: 0px;
+}
+.main{
+    /* border: 2px solid red; */
+    background-color: slategray;
+    height: 500px;
+}
+.main1{
+    /* border: 2px solid black; */
+    color: white;
+    
+}
+.main2{
+    /* border: 2px solid black; */
+    position: absolute;
+    margin: auto;
+    top: 3600px;
+    left: 300px;
+    color: white;
+}
+
+.main3{
+    /* border: 2px solid black; */
+    position: absolute;
+    margin: auto;
+    top: 3600px;
+    left: 600px;
+    color: white;
+}
+.main4{
+    /* border: 2px solid black; */
+    position: absolute;
+    margin: auto;
+    top: 3600px;
+    left: 800px;
+    color: white;
+}
+.inpt{
+    border : 1px solid white;
+    height: 30px;
+    width: 220px
+    
+    
+}
+.btn{
+    height: 35px;
+    width: 120px;
+    color: black;
+    background-color: white;
+}
+.main5{
+    position: absolute;
+    margin: auto;
+    top: 3900px;
+    left: 200px;
+}
+.a1{
+    margin-left: 4px;
+}
